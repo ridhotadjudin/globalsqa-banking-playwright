@@ -231,6 +231,12 @@ jobs:
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
+
 <p align="center">
   Built with ☕ and <a href="https://playwright.dev">Playwright</a>
 </p>
