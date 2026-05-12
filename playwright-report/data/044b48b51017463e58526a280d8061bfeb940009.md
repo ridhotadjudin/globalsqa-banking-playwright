@@ -39,10 +39,10 @@ Call log:
       - generic [ref=e12]:
         - textbox [ref=e13]:
           - /placeholder: yyyy-MM-ddTHH:mm:ss
-          - text: 2026-04-21T20:47:33.415
+          - text: 2026-04-21T20:47:22.237
         - textbox [ref=e14]:
           - /placeholder: yyyy-MM-ddTHH:mm:ss
-          - text: 2026-04-21T20:47:33.873
+          - text: 2026-04-21T20:47:22.703
       - button "Reset" [ref=e15] [cursor=pointer]
     - table [ref=e18]:
       - rowgroup [ref=e19]:

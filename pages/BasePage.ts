@@ -4,6 +4,7 @@ import { ensureScreenshotsDir, SCREENSHOTS_DIR } from "../utils/helpers";
 
 export class BasePage {
   readonly page: Page;
+  
   constructor(page: Page) {
     this.page = page;
   }
