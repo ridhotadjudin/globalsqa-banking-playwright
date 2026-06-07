@@ -1,9 +1,17 @@
-# dependencies
-/node_modules
+node_modules/
 
-# misc
+# Playwright output
+playwright-report/
+test-results/
+screenshots/
+
+# OS
 .DS_Store
-*.pem
+Thumbs.db
 
-# env files
-.env*
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
